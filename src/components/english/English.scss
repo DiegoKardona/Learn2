@@ -1,0 +1,33 @@
+#english {
+  background-color: #0074d9;
+  color: white;
+  padding: 10px 0;
+  text-align: center;
+
+  #reminder {
+    position: absolute;
+    left: 20px;
+
+    #trump-reminder {
+      width: 12vw;
+    }
+  }
+
+  #word {
+    width: 40%;
+    background-color: white;
+    padding: 12px;
+    border-radius: 20px;
+    margin: 0 auto;
+
+    h2 {
+      color: black;
+    }
+
+    h3 {
+      background-color: #ddd;
+      padding: 4px 2px;
+      color: black;
+    }
+  }
+}

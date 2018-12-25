@@ -1,0 +1,9 @@
+#next-arrow {
+  height: 6vh;
+  cursor: pointer;
+  fill: white;
+  transition: 0.4s all;
+  &:hover {
+    fill: black;
+  }
+}

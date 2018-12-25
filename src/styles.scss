@@ -1,0 +1,34 @@
+body {
+  font-family: Lato, sans-serif;
+}
+
+#container {
+  background-color: #ccc;
+  border-radius: 40px;
+  margin: 10px 4px;
+  overflow: hidden;
+
+  #actual-word {
+    position: absolute;
+    left: 4%;
+  }
+}
+
+#app {
+  display: flex;
+}
+
+#english {
+  width: 50vw;
+}
+
+#deutsch {
+  width: 50vw;
+}
+
+#controls {
+  background-color: #ff851b;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+}

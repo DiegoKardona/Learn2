@@ -1,0 +1,33 @@
+#deutsch {
+  background-color: #ff4136;
+  padding: 10px 0;
+  color: white;
+  text-align: center;
+
+  #reminder {
+    position: absolute;
+    right: 20px;
+
+    #berlin-reminder {
+      width: 10vw;
+    }
+  }
+
+  #word {
+    width: 40%;
+    background-color: white;
+    padding: 12px;
+    border-radius: 20px;
+    margin: 0 auto;
+
+    h2 {
+      color: black;
+    }
+
+    h3 {
+      background-color: #ddd;
+      padding: 4px 2px;
+      color: black;
+    }
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "words": [
+    {
+      "id": 1,
+      "word": "Silla",
+      "engword": "Chair",
+      "deuword": "Stuhl"
+    },
+    {
+      "id": 2,
+      "word": "Gilbert",
+      "engword": "Rita",
+      "deuword": "Annette"
+    },
+    {
+      "id": 3,
+      "word": "Kristen",
+      "engword": "Natalie",
+      "deuword": "Elaine"
+    },
+    {
+      "id": 4,
+      "word": "Katherine",
+      "engword": "Brenda",
+      "deuword": "Leah"
+    },
+    {
+      "id": 5,
+      "word": "Wesley",
+      "engword": "Christy",
+      "deuword": "Joann"
+    },
+    {
+      "id": 6,
+      "word": "Christina",
+      "engword": "Herbert",
+      "deuword": "Jason"
+    },
+    {
+      "id": 7,
+      "word": "Christina",
+      "engword": "Janice",
+      "deuword": "Nelson"
+    },
+    {
+      "id": 8,
+      "word": "Marion",
+      "engword": "Lloyd",
+      "deuword": "Elsie"
+    },
+    {
+      "id": 9,
+      "word": "Lester",
+      "engword": "Jason",
+      "deuword": "Ryan"
+    },
+    {
+      "id": 10,
+      "word": "Lloyd",
+      "engword": "Tracy",
+      "deuword": "Maria"
+    },
+    {
+      "id": 11,
+      "word": "Vincent",
+      "engword": "Frances",
+      "deuword": "Heidi"
+    },
+    {
+      "id": 12,
+      "word": "Donald",
+      "engword": "Marc",
+      "deuword": "Gordon"
+    },
+    {
+      "id": 13,
+      "word": "Holly",
+      "engword": "Molly",
+      "deuword": "Kathleen"
+    },
+    {
+      "id": 14,
+      "word": "Calvin",
+      "engword": "Leslie",
+      "deuword": "Crystal"
+    },
+    {
+      "id": 15,
+      "word": "Bernard",
+      "engword": "Lauren",
+      "deuword": "Diana"
+    },
+    {
+      "id": 16,
+      "word": "Louise",
+      "engword": "Sidney",
+      "deuword": "Benjamin"
+    },
+    {
+      "id": 17,
+      "word": "Patricia",
+      "engword": "Brian",
+      "deuword": "Paige"
+    },
+    {
+      "id": 18,
+      "word": "Anne",
+      "engword": "Clara",
+      "deuword": "Rebecca"
+    },
+    {
+      "id": 19,
+      "word": "Elaine",
+      "engword": "Edgar",
+      "deuword": "Lawrence"
+    },
+    {
+      "id": 20,
+      "word": "Shawn",
+      "engword": "Paula",
+      "deuword": "Rhonda"
+    },
+    {
+      "id": 21,
+      "word": "Brandon",
+      "engword": "Jack",
+      "deuword": "Clarence"
+    },
+    {
+      "id": 22,
+      "word": "Clifford",
+      "engword": "Maureen",
+      "deuword": "Russell"
+    },
+    {
+      "id": 23,
+      "word": "Toni",
+      "engword": "Gary",
+      "deuword": "Monica"
+    },
+    {
+      "id": 24,
+      "word": "Vicki",
+      "engword": "Geraldine",
+      "deuword": "Christina"
+    },
+    {
+      "id": 25,
+      "word": "Franklin",
+      "engword": "Kathy",
+      "deuword": "Sherry"
+    },
+    {
+      "id": 26,
+      "word": "Dianne",
+      "engword": "Melanie",
+      "deuword": "Gayle"
+    },
+    {
+      "id": 27,
+      "word": "Sidney",
+      "engword": "Jerome",
+      "deuword": "Sherry"
+    },
+    {
+      "id": 28,
+      "word": "Frances",
+      "engword": "Clifford",
+      "deuword": "Nelson"
+    },
+    {
+      "id": 29,
+      "word": "Lloyd",
+      "engword": "Randall",
+      "deuword": "Beth"
+    },
+    {
+      "id": 30,
+      "word": "Joseph",
+      "engword": "Harvey",
+      "deuword": "Frances"
+    },
+    {
+      "id": 31,
+      "word": "Martin",
+      "engword": "Geraldine",
+      "deuword": "Dolores"
+    },
+    {
+      "id": 32,
+      "word": "Glenn",
+      "engword": "Regina",
+      "deuword": "Karen"
+    },
+    {
+      "id": 33,
+      "word": "Dan",
+      "engword": "Amy",
+      "deuword": "Paige"
+    },
+    {
+      "id": 34,
+      "word": "Chris",
+      "engword": "Mary",
+      "deuword": "Christopher"
+    },
+    {
+      "id": 35,
+      "word": "Samantha",
+      "engword": "Lawrence",
+      "deuword": "Tracey"
+    },
+    {
+      "id": 36,
+      "word": "Sandy",
+      "engword": "Herbert",
+      "deuword": "Jonathan"
+    },
+    {
+      "id": 37,
+      "word": "Melinda",
+      "engword": "Calvin",
+      "deuword": "Ernest"
+    },
+    {
+      "id": 38,
+      "word": "Edgar",
+      "engword": "Allison",
+      "deuword": "Jean"
+    },
+    {
+      "id": 39,
+      "word": "Stephen",
+      "engword": "Gloria",
+      "deuword": "Wendy"
+    },
+    {
+      "id": 40,
+      "word": "Allison",
+      "engword": "Audrey",
+      "deuword": "Carl"
+    },
+    {
+      "id": 41,
+      "word": "Toni",
+      "engword": "Lois",
+      "deuword": "Lloyd"
+    },
+    {
+      "id": 42,
+      "word": "Sandy",
+      "engword": "Teresa",
+      "deuword": "Keith"
+    },
+    {
+      "id": 43,
+      "word": "Neal",
+      "engword": "Karen",
+      "deuword": "Anna"
+    },
+    {
+      "id": 44,
+      "word": "Nina",
+      "engword": "Guy",
+      "deuword": "Kim"
+    },
+    {
+      "id": 45,
+      "word": "Judy",
+      "engword": "Dorothy",
+      "deuword": "Malcolm"
+    },
+    {
+      "id": 46,
+      "word": "Samuel",
+      "engword": "Benjamin",
+      "deuword": "Walter"
+    },
+    {
+      "id": 47,
+      "word": "Ethel",
+      "engword": "Nancy",
+      "deuword": "Edwin"
+    },
+    {
+      "id": 48,
+      "word": "Gloria",
+      "engword": "Jonathan",
+      "deuword": "Tamara"
+    },
+    {
+      "id": 49,
+      "word": "Sherri",
+      "engword": "Kyle",
+      "deuword": "Penny"
+    },
+    {
+      "id": 50,
+      "word": "x",
+      "engword": "x",
+      "deuword": "x"
+    }
+  ]
+}
