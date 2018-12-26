@@ -12,12 +12,12 @@ function English(props) {
         <img
           id="trump-reminder"
           src="https://www.freeiconspng.com/uploads/trump-face-png-9.png"
-          alt=""
+          alt="Trump face reminder"
         />
       </div>
       <div id="word">
         <h2>Sound like:</h2>
-        <img id="word-img" src="" alt="" />
+        <img id="word-img" src={props.image} alt={props.word} />
         <h3>{props.word}</h3>
       </div>
     </div>

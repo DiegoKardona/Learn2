@@ -17,7 +17,7 @@ function Deutsch(props) {
       </div>
       <div id="word">
         <h2>klingt wie:</h2>
-        <img id="word-img" src="" alt="" />
+        <img id="word-img" src={props.image} alt={props.word} />
         <h3>{props.word}</h3>
       </div>
     </div>

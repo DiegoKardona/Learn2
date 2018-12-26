@@ -12,6 +12,17 @@ body {
     position: absolute;
     left: 4%;
   }
+  #learned {
+    position: absolute;
+    right: 4%;
+    color: #0074d9;
+  }
+
+  #not-learned {
+    position: absolute;
+    right: 4%;
+    color: #ff4136;
+  }
 }
 
 #app {
@@ -27,8 +38,19 @@ body {
 }
 
 #controls {
-  background-color: #ff851b;
-  padding: 10px;
-  display: flex;
-  justify-content: space-between;
+  #previous-arrow {
+    background-color: #ff851b;
+    padding: 10px;
+    position: absolute;
+    top: 42vh;
+    left: 0;
+  }
+
+  #next-arrow {
+    background-color: #ff851b;
+    padding: 10px;
+    position: absolute;
+    top: 42vh;
+    right: 0;
+  }
 }

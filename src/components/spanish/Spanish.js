@@ -9,11 +9,7 @@ function Spanish(props) {
         <h1>Spanish Word</h1>
       </div>
       <div id="word">
-        <img
-          id="word-img"
-          src="http://pngimg.com/uploads/chair/chair_PNG6860.png"
-          alt=""
-        />
+        <img id="word-img" src={props.image} alt={props.word} />
         <h2>{props.word}</h2>
       </div>
     </div>
